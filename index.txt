@@ -1,0 +1,6 @@
+# npmCommands.txt
+
+
+npm config set save-exact true
+
+npm install --save --save-exact somepackage
